@@ -50,7 +50,8 @@ Follow the steps below to run the project locally:
 
 1️⃣ Clone the Repository
 ```bash
-https://github.com/Jaivardhan15/Movie-Recommendation.git
+git clone https://github.com/Jaivardhan15/movie-recommendation-system.git
+cd movie-recommendation-system
 ```
 2️⃣ Install Dependencies
 
