@@ -54,13 +54,13 @@ git clone https://github.com/Jaivardhan15/movie-recommendation-system.git
 cd movie-recommendation-system
 ```
 2️⃣ Install Dependencies
-
+```bash
 pip install -r requirements.txt
-
+```
 3️⃣ Run the Application
-
+```bash
 streamlit run app.py
-
+```
 The application will open automatically in your web browser.
 
 ---
